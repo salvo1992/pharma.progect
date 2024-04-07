@@ -1,0 +1,19 @@
+GET http://localhost:9089/getPharma
+
+####
+
+POST http://localhost:9089/createPharma 
+Content-Type: application/json
+
+{
+         "asin": "B01234ABCe",
+        "title": "farmaco",
+        "img": "https://picsum.photos/200/300",
+        "price": 15.50,
+        "category": "Pain Relief",
+        "text": "Analgesic and antipyretic medication commonly used to relieve pain, inflammation, and fever.",
+        "textL": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, inflammation, and fever. It works by inhibiting the production of certain chemicals in the body that cause inflammation and pain. It is commonly used to relieve headaches, menstrual cramps, muscle aches, toothaches, and minor injuries. Ibuprofen should be taken as directed by a healthcare professional and should not be used for extended periods without medical supervision.",
+        "availability": "Yes"
+}
+
+####

@@ -1,0 +1,90 @@
+/* CommentPage.css */
+
+/* Stile per il form */
+form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  /* Stile per i label */
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* Stile per i textarea */
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Stile per il checkbox */
+  input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  /* Stile per il bottone di invio */
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Stile per il campo di valutazione */
+  .rating {
+    margin-bottom: 10px;
+  }
+  
+  .rating label {
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .rating input[type="radio"] {
+    display: none;
+  }
+  
+  .rating .icon {
+    color: #ddd;
+  }
+  
+  .rating input[type="radio"]:checked ~ .icon {
+    color: gold;
+  }
+  
+  
+.comment-card {
+  margin-bottom: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+  padding: 15px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 16px;
+}

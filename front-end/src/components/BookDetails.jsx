@@ -1,6 +1,6 @@
 import { Card, Col, Row } from 'react-bootstrap'
 import { useParams } from 'react-router-dom'
-import CommentArea from './CommentArea'
+
 import fantasy from '../data/fantasy.json'
 
 const BookDetails = () => {
@@ -16,9 +16,16 @@ const BookDetails = () => {
             <Card.Title style={{ color: 'black' }}>
               {foundBook.title}
             </Card.Title>
-          </Card.Body>
+            <Card.Text style={{ color: 'black' }}>
+              {foundBook.TextL}
+              </Card.Text>
+              <Card.Text style={{ color: 'red' }}>Availability   :  
+              {foundBook.availability}
+              </Card.Text>{}
+              <Card.Text>Prezzo: €{foundBook.price}</Card.Text> {/* Inserimento del prezzo */}
+           </Card.Body>
         </Card>
-        <CommentArea asin={params.asin} />
+       
       </Col>
     </Row>
   )

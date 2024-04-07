@@ -1,30 +1,39 @@
-import { Button, Card } from 'react-bootstrap'
-import { useNavigate } from 'react-router-dom'
+import React from 'react';
+import { Card, Button } from 'react-bootstrap';
+import { useNavigate } from 'react-router-dom';
 
-const SingleBook = ({ setSelected, selected, book }) => {
-  const navigate = useNavigate()
+
+const SingleBook = ({ book, addToCart }) => {
+  const navigate = useNavigate();
+
+  const handleAddToCart = () => {
+    console.log('handleAddToCart')
+    if (addToCart && typeof addToCart === 'function') {
+      addToCart(book);
+    }
+  };
 
   return (
-    <>
-      <Card
-        onClick={() => setSelected(book.asin)}
-        style={{
-          border: selected === book.asin ? '3px solid red' : 'none',
-        }}
-      >
-        <Card.Img variant="top" src={book.img} />
-        <Card.Body>
-          <Card.Title style={{ color: 'black' }}>{book.title}</Card.Title>
+    <Card>
+      <Card.Img variant="top" src={book.img} />
+      <Card.Body>
+        <Card.Title>{book.title}</Card.Title>
+        <Card.Text>{book.Text}</Card.Text>
+        <Card.Text>Prezzo: €{book.price}</Card.Text>
+        <div className="d-grid gap-2">
           <Button
-            className="w-100 mt-2"
+            variant="primary"
             onClick={() => navigate(`/details/${book.asin}`)}
           >
             VAI AI DETTAGLI
           </Button>
-        </Card.Body>
-      </Card>
-    </>
-  )
-}
+          <Button variant="success" onClick={handleAddToCart}>
+            Aggiungi al carrello
+          </Button>
+        </div>
+      </Card.Body>
+    </Card>
+  );
+};
 
-export default SingleBook
+export default SingleBook;

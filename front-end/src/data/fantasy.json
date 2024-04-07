@@ -4,209 +4,330 @@
         "title": "Ibuprofen 200mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.CGn6nJ-hn_G6or2dsAK7NQHaHa?w=191&h=191&c=7&r=0&o=5&pid=1.7",
         "price": 9.99,
-        "category": "Pain Relief"
+        "category": "Pain Relief",
+        "Text": "Analgesic and antipyretic medication commonly used to relieve pain, inflammation, and fever.",
+        "TextL": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, inflammation, and fever. It works by inhibiting the production of certain chemicals in the body that cause inflammation and pain. It is commonly used to relieve headaches, menstrual cramps, muscle aches, toothaches, and minor injuries. Ibuprofen should be taken as directed by a healthcare professional and should not be used for extended periods without medical supervision.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "B56789EFGH",
         "title": "Acetaminophen 500mg Caplets",
         "img": "https://th.bing.com/th/id/OIP.GZx5zjnrxGneSXO7k96pfQHaHa?w=199&h=199&c=7&r=0&o=5&pid=1.7",
         "price": 7.49,
-        "category": "Pain Relief"
+        "category": "Pain Relief",
+        "Text": "Commonly used for the relief of mild to moderate pain and fever.",
+        "TextL": "Acetaminophen is a widely used over-the-counter medication for the relief of mild to moderate pain and fever. It is commonly used to alleviate headaches, muscle aches, toothaches, backaches, and fevers. Acetaminophen works by inhibiting the production of prostaglandins, which are substances in the body that cause pain and fever. It is important to follow the recommended dosage instructions and to avoid exceeding the maximum daily dose to prevent potential liver damage.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "C12345ZYXW",
         "title": "Loratadine 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.t46y-y148ERCu9to4JH80QHaHa?w=199&h=199&c=7&r=0&o=5&pid=1.7",
         "price": 12.99,
-        "category": "Allergy Relief"
+        "category": "Allergy Relief",
+        "Text": "Antihistamine medication used to relieve symptoms of allergies such as sneezing, itching, and runny nose.",
+        "TextL": "Loratadine is a second-generation antihistamine medication used to treat symptoms of allergies such as sneezing, itching, watery eyes, and runny nose. It works by blocking the action of histamine, a substance in the body that causes allergic symptoms. Loratadine is commonly used to treat seasonal allergies (hay fever) and allergic reactions to substances such as pollen, dust mites, pet dander, and mold. It is usually taken once daily and does not typically cause drowsiness.",
+        "availability": "No"
+    
     },
     {
         "asin": "D67890UVWX",
         "title": "Omeprazole 20mg Capsules",
         "img": "https://th.bing.com/th/id/OIP.jlQEul_T-XpeTnw1N1So7QHaHa?w=204&h=204&c=7&r=0&o=5&pid=1.7",
         "price": 19.99,
-        "category": "Gastrointestinal"
+        "category": "Gastrointestinal",
+        "Text": "Proton pump inhibitor (PPI) used to treat conditions related to excess stomach acid production.",
+        "TextL": "Omeprazole is a proton pump inhibitor (PPI) medication used to treat conditions related to excess stomach acid production, including gastroesophageal reflux disease (GERD), peptic ulcers, and Zollinger-Ellison syndrome. It works by blocking the enzyme in the stomach wall that produces acid. Omeprazole is usually taken once daily before a meal and may take several days to provide full relief of symptoms. It is important to take omeprazole exactly as directed by a healthcare professional and to report any persistent or severe side effects.",
+        "availability": "No"
+    
     },
     {
         "asin": "E24680QRST",
         "title": "Simvastatin 40mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.zjGbaUK6OWjdKNlpSjUzrAHaHa?w=207&h=207&c=7&r=0&o=5&pid=1.7",
         "price": 8.99,
-        "category": "Cholesterol Management"
+        "category": "Cholesterol Management",
+        "Text": "HMG-CoA reductase inhibitor (statin) medication used to lower cholesterol levels.",
+        "TextL": "Simvastatin is an HMG-CoA reductase inhibitor medication, commonly known as a statin, used to lower cholesterol levels in the blood. It works by inhibiting the enzyme in the liver responsible for producing cholesterol. Simvastatin is prescribed to reduce the risk of heart attack, stroke, and other complications in individuals with high cholesterol levels or at risk of cardiovascular disease. It is usually taken once daily in the evening with or without food. It is important to follow a healthy diet and lifestyle while taking simvastatin to achieve optimal cholesterol-lowering effects.",
+        "availability": "No"
+    
     },
     {
         "asin": "F13579LMNO",
         "title": "Amoxicillin 500mg Capsules",
         "img": "https://th.bing.com/th/id/OIP.LKNqJ1nMIMYQe1pcyN_5WgHaHa?w=200&h=200&c=7&r=0&o=5&pid=1.7",
         "price": 15.49,
-        "category": "Antibiotics"
+        "category": "Antibiotics",
+        "Text": "Broad-spectrum antibiotic medication used to treat bacterial infections.",
+        "TextL": "Amoxicillin is a broad-spectrum antibiotic medication used to treat bacterial infections caused by susceptible microorganisms. It belongs to the penicillin class of antibiotics and works by inhibiting the growth of bacteria. Amoxicillin is commonly prescribed to treat infections of the respiratory tract, ear, nose, throat, skin, and urinary tract. It is usually taken orally, with or without food, multiple times a day as prescribed by a healthcare professional. It is important to complete the full course of treatment even if symptoms improve to prevent the recurrence of infection.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "G24680PQRS",
         "title": "Cetirizine 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.f93q_EbfMVriLZdQdqN9XAHaHa?w=202&h=202&c=7&r=0&o=5&pid=1.7",
         "price": 10.99,
-        "category": "Allergy Relief"
+        "category": "Allergy Relief",
+        "Text": "Second-generation antihistamine medication used to relieve symptoms of allergies.",
+        "TextL": "Cetirizine is a second-generation antihistamine medication used to relieve symptoms of allergies such as sneezing, itching, watery eyes, and runny nose. It works by blocking the action of histamine, a substance in the body that causes allergic symptoms. Cetirizine is commonly used to treat seasonal allergies (hay fever) and allergic reactions to substances such as pollen, dust mites, pet dander, and mold. It is usually taken once daily and does not typically cause drowsiness.",
+        "availability": "No"
+    
     },
     {
         "asin": "H35791TUVW",
         "title": "Metformin 1000mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.x6h0oBB9WCsvT9RVjlpjaQHaHa?w=182&h=182&c=7&r=0&o=5&pid=1.7",
         "price": 14.99,
-        "category": "Diabetes Management"
+        "category": "Diabetes Management",
+        "Text": "Oral antidiabetic medication used to treat type 2 diabetes mellitus.",
+        "TextL": "Metformin is an oral antidiabetic medication used to treat type 2 diabetes mellitus, a condition characterized by high blood sugar levels due to insulin resistance or insufficient insulin production. It works by decreasing the production of glucose in the liver and improving insulin sensitivity in the body's tissues. Metformin is commonly prescribed as a first-line treatment for type 2 diabetes and is usually taken orally with meals one to three times daily. It is important to monitor blood sugar levels regularly while taking metformin and to follow a healthy diet and exercise regimen as part of diabetes management.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "I24680QRST",
         "title": "Losartan 50mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.CVlOG9MVGK5P5LUedyFrMwHaHa?w=192&h=192&c=7&r=0&o=5&pid=1.7",
         "price": 11.99,
-        "category": "Hypertension"
+        "category": "Hypertension",
+        "Text": "Angiotensin II receptor blocker (ARB) medication used to treat high blood pressure.",
+        "TextL": "Losartan is an angiotensin II receptor blocker (ARB) medication used to treat high blood pressure (hypertension) and reduce the risk of stroke in individuals with hypertension and left ventricular hypertrophy. It works by blocking the action of angiotensin II, a hormone that causes blood vessels to narrow and blood pressure to rise. Losartan is usually taken once or twice daily with or without food. It may take several weeks for losartan to reach its full effect, so it is important to continue taking it as directed even if blood pressure improves.",
+        "availability": "No"
+    
     },
     {
         "asin": "J13579LMNO",
         "title": "Albuterol Inhaler",
         "img": "data:image/jpeg;base64,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",
         "price": 29.99,
-        "category": "Respiratory"
+        "category": "Respiratory",
+        "Text": "Bronchodilator medication used to treat asthma and other respiratory conditions.",
+        "TextL": "Albuterol is a bronchodilator medication used to treat asthma, chronic obstructive pulmonary disease (COPD), and other respiratory conditions characterized by bronchospasm (narrowing of the airways). It works by relaxing the muscles in the airways, which allows for easier breathing. Albuterol is commonly administered via inhalation using a metered-dose inhaler (MDI) or a nebulizer. It provides rapid relief of symptoms such as wheezing, shortness of breath, chest tightness, and coughing. It is important to use albuterol as prescribed by a healthcare professional and to seek medical attention if symptoms worsen or do not improve.",
+        "availability": "No"
+    
     },
     {
         "asin": "K24680QRST",
         "title": "Atorvastatin 20mg Tablets",
         "img": "data:image/jpeg;base64,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",
         "price": 18.49,
-        "category": "Cholesterol Management"
+        "category": "Cholesterol Management",
+        "Text": "HMG-CoA reductase inhibitor (statin) medication used to lower cholesterol levels.",
+        "TextL": "Atorvastatin is an HMG-CoA reductase inhibitor medication, commonly known as a statin, used to lower cholesterol levels in the blood. It works by inhibiting the enzyme in the liver responsible for producing cholesterol. Atorvastatin is prescribed to reduce the risk of heart attack, stroke, and other complications in individuals with high cholesterol levels or at risk of cardiovascular disease. It is usually taken once daily in the evening with or without food. It is important to follow a healthy diet and lifestyle while taking atorvastatin to achieve optimal cholesterol-lowering effects.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "L35791TUVW",
         "title": "Fluoxetine 20mg Capsules",
         "img": "https://th.bing.com/th/id/OIP.iGn3WrIpAUWggO0_XWuCDgHaHa?w=189&h=189&c=7&r=0&o=5&pid=1.7",
         "price": 13.99,
-        "category": "Mental Health"
+        "category": "Mental Health",
+        "Text": "Selective serotonin reuptake inhibitor (SSRI) medication used to treat depression, anxiety, and other mental health conditions.",
+        "TextL": "Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) medication used to treat depression, obsessive-compulsive disorder (OCD), bulimia nervosa, panic disorder, and premenstrual dysphoric disorder (PMDD). It works by increasing the levels of serotonin, a neurotransmitter in the brain that regulates mood, appetite, and sleep. Fluoxetine is usually taken once daily in the morning with or without food. It may take several weeks for fluoxetine to reach its full effect, so it is important to continue taking it as directed even if symptoms improve.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "M24680QRST",
         "title": "Levothyroxine 100mcg Tablets",
         "img": "https://th.bing.com/th/id/OIP.-b0o4Rx2nx47Av9pSMn7wwHaHa?w=161&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 16.99,
-        "category": "Thyroid"
+        "category": "Thyroid",
+        "Text": "Thyroid hormone replacement medication used to treat hypothyroidism.",
+        "TextL": "Levothyroxine is a synthetic form of thyroid hormone used to treat hypothyroidism, a condition characterized by an underactive thyroid gland that does not produce enough thyroid hormone. It works by replacing or supplementing the natural thyroid hormone in the body. Levothyroxine is usually taken orally once daily on an empty stomach, preferably 30 minutes to 1 hour before breakfast. It is important to take levothyroxine consistently and at the same time each day to maintain stable thyroid hormone levels in the blood.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "N13579LMNO",
         "title": "Metronidazole 500mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.UvJ_esPk017kU6ST6YirvwHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 12.49,
-        "category": "Antibiotics"
+        "category": "Antibiotics",
+        "Text": "Antibiotic medication used to treat bacterial infections, including certain types of protozoal infections.",
+        "TextL": "Metronidazole is an antibiotic medication used to treat bacterial infections caused by susceptible microorganisms, including certain types of protozoal infections such as trichomoniasis and giardiasis. It works by inhibiting the growth and replication of bacteria and parasites. Metronidazole is commonly prescribed to treat infections of the reproductive system, gastrointestinal tract, skin, and other areas of the body. It is usually taken orally with or without food multiple times a day as prescribed by a healthcare professional. It is important to complete the full course of treatment even if symptoms improve to prevent the recurrence of infection.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "O24680QRST",
         "title": "Ranitidine 150mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.HkBtNSsbv6AInft53SrDVAHaHa?w=192&h=192&c=7&r=0&o=5&pid=1.7",
         "price": 9.49,
-        "category": "Gastrointestinal"
+        "category": "Gastrointestinal",
+        "Text": "Histamine H2 receptor antagonist medication used to treat ulcers, gastroesophageal reflux disease (GERD), and heartburn.",
+        "TextL": "Ranitidine is a histamine H2 receptor antagonist medication used to treat ulcers, gastroesophageal reflux disease (GERD), and heartburn caused by excess stomach acid. It works by reducing the production of acid in the stomach and relieving symptoms such as heartburn, acid indigestion, and sour stomach. Ranitidine is usually taken orally, with or without food, once or twice daily as prescribed by a healthcare professional. It may take several days for ranitidine to provide full relief of symptoms, so it is important to continue taking it as directed.",
+        "availability": "No"
+    
     },
     {
         "asin": "P35791TUVW",
         "title": "Prednisone 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.vEBQfMNPAlz88ncwDm20CQHaHa?w=167&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 11.99,
-        "category": "Inflammation"
+        "category": "Inflammation",
+        "Text": "Corticosteroid medication used to treat inflammation and autoimmune conditions.",
+        "TextL": "Prednisone is a corticosteroid medication used to treat inflammation, allergic reactions, autoimmune conditions, and certain types of cancer. It works by reducing inflammation and suppressing the immune system's response to various triggers. Prednisone is commonly prescribed to treat conditions such as asthma, rheumatoid arthritis, lupus, inflammatory bowel disease, and certain skin conditions. It is usually taken orally with food or milk to minimize stomach upset. Prednisone should be taken exactly as prescribed by a healthcare professional and should not be stopped suddenly without medical supervision.",
+        "availability": "No"
+    
     },
     {
         "asin": "Q24680QRST",
         "title": "Tadalafil 20mg Tablets",
         "img": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCADMAMwDASIAAhEBAxEB/8QAGwAAAQUBAQAAAAAAAAAAAAAABAACAwUGAQf/xABIEAACAQMCAwQGBwQIBQMFAAABAgMABBESIQUxQRMiUXEGMmGBkbEUIzRzobLBM0JSchVDgpKiwtHwByRjdOElU2JEg6S00v/EABoBAQEBAQEBAQAAAAAAAAAAAAABAgMEBQb/xAAnEQEBAAICAQMDBQEBAAAAAAAAAQIRAyExEkFRBBMiBTJCYbFxkf/aAAwDAQACEQMRAD8A9bpUqVAqVcJABJIAAySdgB4k1WXHFBkxWi635GQjur5CgPmnggXVK4UdMnJbyA3qufiNxIymBRHGGBJkAZnAPLHSg9DuxkncySHmW3A8qkoJjdXRYsJCMknAxgZ6DNOF7d/xg+ar+lD4pYqoLF/cDmsZ9xHyNOHEJP3okPkxHzoLFLFEWA4gvWEjycH5inC/t+qyD3A/rVbilii7WovbU/vMPNT+lOF1an+tX35HzFVOBXMU0bXYmgPKWM+TinAqeRB8iDVFim5kBH1fXmrLt7jimjbQUqoe2dN8yqBjfPL4GnC7n59rMP5g+3nkU0Lz/fOl/vnVL/SE6hvrdRG+CqDPsy2B+NPXiVwMalXcHmoxtud0bFNC3pVWDiT8zGuMFjs42Hup44nGeaeA9YDf3imlWFKgl4jbHo3XkUPyNSC9tjzLDzU/pUBNKoRc2x5SD3gj5ipQVYAqQQdwRuDQdqG4uIbaMvK2B+6B6zHwArlxOIF7qs8jA6EHzY9BVQ0ckshmuCXkPIEdxPYoNA2ae7vj3j2VvzCDm3tNJI0QYUAePiT7akxXGXUCup1BO5Q6Wx1AYbjPsqxEE9xDAkjO6Ds89o7tpjixudbePsHvK86rRxxXlaOGzd1BA1PIUYZIwXXQcZHqj1jkbAd4z3XB0umRmu7hVTQI0RYgkQXJ+rAAw3geY6YJ1U6PhYto9Nq6IwDhSyEEA5OFKnIz+8dycnffB1NIfLxK3gVTMjoxcJoQ9o+o8kCqMlz0UZPjjGBDHxzh0rRoq3XaSY0IsaSFstp2MbkEDqQSM7AsRgATcB4jKxLXNq5I0EsjqoQjLKseCNPQLnB5uZPUBP8ARt1ZxOtlEkssmlZJpZtMkhI0kuxGoKBtgDJG2w7qXoWEt9YQ47WdUJYIAVcsZD+4oQHLeIGcdeRxIbmzCxsbiELJIYYizae0kAJKJqxkjmccutUf0C7t8TSQNdXchMKanSKBBz75RsrH4ImWbG7D1yJJBxeWfCwXT3DgwtcOhhIjRtPZxCPaKEHkF7zc+6PrS1BqRLAc4mgJVmRgJYyQygMykZ5jbPhn21JpboDtjOx2ztWX0WnCVVyO1utLKkmhURFTvlYA+I1RebMSAOfeY63DRr2+mYpJp7MhpHZ5oobZZAcFmGJQWGcDHauDsIUOWmhtCCOYI58wRypjMVPqu22TpA/U1nfpP0NEhhlupZpdOka/+Yn0YQaUB7OOJeQA2Hi7HvErd31orS310zTMyxpbRhniic50xhQDI8h8Bucb6QNAekWxkYE90gDPNXyBzySAR866ZQNOQuSMnvYwM421D/SqK24pxm7dzCYEgQASSzRxukQ1YJMibM5xju5UbgGRhhCZ+MyJIYIIo5plA19pqjSLVyebSxwD+6uSx9gOpbqi1V4nAOUPL95WAzy35U3VESuUcblhmNtjuc93NA3HFIrZB9KgXt2BZbdGUSaUGXaQyd1QOpJwvUjZXVrxGC6wy2cqYAYOWUKQw70g1BWCZ2BYAt4bgNAeGhzjYHBbBDKQMc9xS0xEL9ZlSO6GZWBBBGwcHnQLcW4NraLtZyxkMf1aSaJJFbSwUq2+jm5xhc4JDHTRMk9gmmOa5RJJQ5UXGFfCguSQ67BRuc8ts4zuEhgUlSCARnOlQNW2AD2eKcUcnJK9OsikAdBhsfhUa9lcR6oJoXjYAqUGpQH7+e6wOTsd/wBanVAuQudzk5JO/LrUDVjQAZAONOx7wGnljO9POBucVxnVNubHYAc6GkkO/U+HRf8AzU20fJPpG3PoP1NXPDyTZ2xJOSpPxYms2STknrWlsfsdr92Pmaa1DYO6ZlupgCd0jP8AhxTBI3jT737W3thj+bVDQSdoeuD7hS1L/Avw/wBKj9ldoH5j/hHuzS+qPRvjTKVA/TF/Ew9wNc0J0f4iuUqDphVusZ2I3HQ9NxTPoyHHcj2xjGKdXcnxomjWhc59fOCAVY5GTnbemNb5XSQ+McyAxBPNgWB7x6nmalya7rcdT8aGggtLdHeVYYklcrrdYlVyqqUC6lAPInfOdzgjNDS8I4bOcywg9wx90yJ9WTlo1CsAA3JvEbHI2qH0huOJQ8L4u9jcTQ3EMAuonhchwIXWRwOfNQ2a86j9NvS6MAHiTyYHOaC0l/PFn8a644ZZdxNyPT5OHW7xLDG80KqumMwMo0HAGpQyldXQHG3TAAAji4XbWyabVjG41mN3HaFHbJL7kEsTuWJz7QTqrAR/8QfSRMCReHTc89pZhSffC60ZF/xEvv67hnD32/q2u4s/F3q/bzNxpl9Hh2pklvDNloWPaQganTcPIFbSdO/ZrgKvQaiXLrzh3FJVMFs9sltsSpkmWSVzkFppEAbAHPSQTnSDGudVFH/xEtCQJuEOM9YL7Ix5Sw/rR0Xp76OyAdpbcSiPgBayj4iVflWbjnPY6Fpw274fEGtIFnvZFRGuHaNUgVASojjTSQF5KqgbnA05Mphs+C3M8jTcR1qraS8UhjaWUqdS9toymAd1UdxTyDt9YJ4vTD0Vl53N5Cds9tYzEDPLLQ6xRsPHfR2dkSHiULPIyoiNHcxszPsqgSRjn03qdwHokcahEAVFzgD4knO+fGmvJsQuMdWPL3UySTkOhAIAPQ796oGYmseVJn54zvzJ5mhZbhknit0h7SSS2uLlCXVUJiKqqY9bcnc4wB7TUsnqnzX8woK6Gbtc4Ktwq/Ro1VO1l7ykLG2NfU5wcbjmTs0s7sT26zLDEs+ntgD2mkYXUWJOnO+PCtXYg/Q7TOM9ktZKzQR2tqgKnREF7ja1BBOQG645Z9la2x+x2n3S09lz/fQd99q84I/zNUIOCD4VPf8A2pf+3T87UN0ojNSr6QQcTg4ZBxm4cyW30kS3A1KAAxKle94VNxbi3Fba7uYLExlbGxhnuw8SSZdims5O/wC+o5+NWElhcvxqx4iWjFvFZ9g6ksJCSGGVGMY38ark4Pxeebi9xNeR2r38kqyRoq3CTQuS2HbYgDkMeFeO45zcx35fo+Lm+n5Ljly+nrHvrzbe/E+BnEeLXEDcHFhDBOOJIzRibWCxJTSFYMoHPfNOs+KXMt6OH31kLW6eMyxdnJrR1G+NyfaR3jyNU3YcXhi9HGk4fdSPwue61JGFYmLtUkjAZCehIG3Spxc3s3FW4s1hc20PD+G3GBOj6mkEbqijujJLNyA5Cn3MvVu79uv9av0fD9q4yS9Zflvve76ff369lknHbOTiP9HrDLvcy2yXGtDEzxg/u4zvjbc8x40at7bNfS8OHafSI4VnYlQItDBDs2c57w6VjRHfw8LhmaxdY0vBxJb7tED6tIiUNGdwCQu5/WrZb6xHpDPdyzxRQT8LtijuTp1SRW8ijug+B+FTDmy/kzz/AKbxTd4pvUvi77mvjfnfhf3N1aWaLLdTLFG0giVmDnLkFsAICehpJc2skKXCTxG3fZJS2lCclcZfG+QRWe4zfcPuL/gcbyiSwixd3LQhpA4kYjChdzsoB/moGKZH4DxW1En2a/tngdsj6qaQkMQfaGPvrd59ZWRx4/0r18OGd3LbN/Grdf8ArZJNbS7RXFvJsTiOaJzgbk4VicVIASCRyHUbj41lLSG2+j3Un9CTWso4Nest40jtFJqt9J7p2y+ciorVnRPQcozAG6v0YAkAq11jBx0qzm8bjGX6ZLbMMvHzr4t9rfhpbtEYKHGY5FeGUbbo40kfAmvDrq3e0uru1f17aeW3bzjcpn8K91uF1wyDwGr4b15R6XWxt+NT3AQFL62jnywyBJjsXI9uVzn2+2vpcN9nwsmcxmlvThsGGBksDk5yAAdq5Xqc3K6BXRjBGDq1c87aceGOfvrq6e8STkAaQADkk4OST+hqbHQNhzo7hjMOJcJ7zYF9bHGTjZ6Eomw+38MwMn6bbYHiTIABWcu4sewt+593F+QUw09jkr7UjP8AgFMNfPjojk9U+afmFB3YU3aLhiW4VfjShOtgHXIRVXOTnHrD2AnJUyT1D5p+YULdMPpIjOohuG3skmgtrABKqECjGSSQPdiquPmJbVNFvbr2RhAQYiPOIElgh9o5GtXZD/lLT7payVmhjtrVGOWSJVbv68N1XX1xyz7K1tl9ktPuU+VT+Mb5P30Jf5+lJ/24/O1Qx7yRAjIMiZHiNQqa/wDtMf3H+c0PRl51w7il8nF+HpJxefs29KbywuEl4ubgtaCSUCJuGMMquwAk1e4UXwn0o4le3XEWTiFtdNe8N45e8LspDEq8PuLSZzBFKcKArp3u83TzrZtZcOdhK1naNKQ4LtbwmTvgq3f06twSDvUUnC+ETR2kUtjbNDZrKlrH2YVIkliMDoqrgaSpII5Vvc+EZVfSTj9pYcXlvJYZL614XaX0Vvf8Km4dOryXcVs5VY27KSIajhg4OcbYq4g4xx+8v79LLhFtNw2y40eDyutzKOIARsqyXIjI7LSuc4yP1px9E/RsQ3kC286pd2sdm7fS7l3jt0lScRQmZm0jUq7AdKdL6OWsl5LdR3/FIIZ+IxcUurG3nVbSe6QhtTDRrGrA1AN/4dHaHhfpN/S959FXhgWGS4u7btFv7aeeIwMy6ryz0iVA2NjvzHnTOI8U4etw8KcNsZ1iJhaS4RcsU7uIwoGAOQ3+FSw+jUv9L8N4hNxSSdLK+kvIEls7YXZaTWOzlvV+tZBqOAQeQHTaDhKXJuuMtAYUKqweaSF55Iw0r47JFPPbfOeQ2qzHG7tizkzwv43SO24vw23lM8PCII5ezMRe2mKkIcEqAykdBSlu/R68e7a4tL+J71YxcPBOpBMZDKQMgZ28PHxqzVbK6v7BJoXllhtLpppbi0a3SeRTGFwjgA4yem2fhXTCC74VPemzt7e4hvEgU28ZjDKQudSk+38KTDjvXpdJ9Tz45eqZ3f8A1Yf0vwV7WS013UaNbNahmhDEIY+yz3WO+PZQDQ8JeHhUNtxrsZOHtO8UsttIGLzSiXV0UYPKq6KzvZozNDbyyRamXVGAw1KASMA6uo6Uxra8V3Q21xrjCmReykJQNy1YHXpWsvp+PLyvF9ZzcPeF/v8A2e//AFsLCK+jilF5fLeiRlaGRUCgR6cEZHPPPnWL9NbaQW9pdIzA2s8tnMByMc/eH4r/AIq0vo7JIYLuJiSsUyFAf3dYJYD2ZGffUPpJafSrLicAXLT2jSxDr2sP1i496/jU459vLTny8l5bc75vx1/jyOugnvDA7wA3G4wQciufrvXRXuedLBbXdy5itre4nkC62S2hklcLnGphGCcVLc8O4pYokl7w+8tllOmB7mJo1Z1OpgM9cdK1v/D1sXnHvbZ2HwE0taX0stWveAcSVVBe17LiCA/9AkSAf2WY+6uGXJZlprW48nomxOm/4SfDiNh/+wlDVPZnF5w0+F/Yn/8AIjrpfCPZZVC6AowAoAHgAMVFU8/NPKoK8EdEcnqnzX8wqtu57l5WVJGhghRBMuwd2njfdnGwCjcb8/KrKT1Tt1X8wqnkC9vM2VIH0DQHkCxlzbse8OoIznwA9tVcfMWluLcRQC2KGAIBCYzlSg2GDWrsvslp9ynyrIWXZ/RbTs21p2Q0vp0atzlgvQE5wK19l9ktPuU+VZ9ms+s7Ad/9oh+5P56HG+B7fGieIft4D4xOPgwoZdip8CD8DRAx4hwxcK93DG+4Im7SLfOOcqqPxqVLizlx2V1ayZ6R3ELk+5WzQS2vFIxcdndjU/aFMl8LlCoXDZ22UHGDgHkTs14r1yDNaW04UYKyWto6yNhD46gMgjJPI8s8qLYRyEZCOR4gEj41zlz286p4+GQi2USwQrcGdNcttbLCwj15YaYzj1R061CtzbqIn08RgV8ArFxK81Al1CkJKSunGSMnfB8N2kX24IIO4III+NZi94bfxXlzJw9mcSOzstvOizRFjr0SIGB8qsIbl5J4UjvOIMO0SOQTtayIz5XKDMWvGCTnP+tHNbMwuNMjDt7h52DElAGB7gXPlnyrWOVxpZtlyfSNJIZJBxLVDr7JnErmPUMNp5jfrTLq/wCLTosd1JK0auGZJIxGCwBALd0Zx+tal4r/AEPpupmkKrn6wA6tJLFCynBJxjpjzpkr8W7RyqfVK5aNVETkjRKAjZK5HqZO2N8cs1v7k+GfT/bL23EZbdY40WFljN28eoHIa5i7FySGHQbVZcP4vAphF2zRi3fh7R9ksx1C2iaHvFG3JGNiMVZubomRZLS3ZVAYPLC0xIMq6tkG+ASAM52B3qJ4+HB1WThdu+ZLoMUhEYVY3xGMOBliNzg/6Bcsb5hJYi9H8svE5sEJJcIIyeukMx+GQDR/EFGiKXGezkAYHqrb4/D8ant9HZ6EhWFYyYxGuNK7Bu7pAGN/ClcoZLe4UczGSPNe8PlWN/ltddPEuI230O/v7UcoLmVE/k1ZQ/Aihv8Ae9X/AKVQ6OJRzgbXVrE+f/nETEffgLVBXuxu45tl6ANi+42PGwtD8Lhh+teg4jlDRS4MUyPDKD1jlUxt+BNec+grFeI8WH8XDYj/AHblP9a32vI+Nebkn5NR45PBJbT3FtICJLeWWB/5onKH5Urc4ubE+F7ZH4XCGrn0st+w47xBgMLdCC9X2meMF8f2g1UkRxNaHwurQ/CdK7y7iPa5+aeRqCp5+aeR+dQV4W0cm6t5r+YVRTIp4hDNLqKxmxRwF1BlNu7NsdycDAGPnveyeq3mv5hVLMhN1EEciZ3tgioVEgWOzc6xgk7ZGN+ft9XUpPK0tSTBb6kZCUBKOQXU5Ozads+P/itbZ/ZLT7lPlWVhijgSKGJcRxqEQZzsPEmtTZfZLT7lPlWb4byu8rYF4j+2tvu5fzLQooviP7W1/km+a0IKiO13lzrh5GukHkT0oFSyeuT5mlvgZ8KVBwKgOQig51ZAAOT15c6dXNwRtkdQa7QKlSpeGfHFAqWSCMH8TS64z0JpeAzQKug+I61znn2c67Qec+mFti3jfG9nevCSP4Jgf1VfjWKr1D0rte1t+JKAMy2YuE/ng7/+X8a8yRQcnxGR/pXt48unKxpPQpscVvEHry8NkCL1cpcQuQo6nGT7vZW8LEEgggjbDZB+Brye3try7lWG2hMswjaXShRCETALamIHUDn1qzXivpNwzTFLc30IGAI75TJGfYouAy/A1nKbu1i09NogZOC3QHr29zaN5wyiUfhJ+FZAbPCfCaA/CVa0k/FLjitvbR3cVqRBLJKGijZdTuqoThmI5AcgKrrmG3RAVijDZRshd8hwauN1NJXrVwf2fkaHqSU5K++o68boY/qN5j8wqKO3gjftezXtjEkLOOeheSj2e6pZPUb+z+YV08zWohDnWms/slp9ynyrMrzrTWf2S0+6T5VKsC8S9e0/ln/yUIKM4l69n5T/AOSgxyqKg+kov0lpjGsUUrxIya2LdnoD5UAnKlgu3PB8Klae2V+yM0Yk7NZSjsFZYz++wbpQjz8OWa4iaENOjTOBHb69bAMo7yj1iM59mfKumbh8wE4CSu0sVm5ViNLsrMAS2AcYODiqgtZYGA0zRN3A4CyIW0EatRAOcY3zXdSnXuBpd0P8ycxQTR8MfWxeJHUu51SQlwqMTrKNnK7ZxgjanNawLCkIc/8ALhpQXGoYYiEhxGV2JGCARRRpO6ZIBPq5/exjOKWdz7OfzoCO1v0klDTOojCrDJJl2dznLlWZgNtI5Dl1xkuaLiKnVDMo1ywvKkrdqAqoqHS7qDvjvHmfZUB1KhGW8K2uti7JcFpDGANSdmQupUdBjJ9vLOD0XbX6YLWyuAC2FZg5A2CjJI1E7k8se0bgXtS2yM7b86CF5NmVzauycowjMuWQkOR2qKdJ5gkez21JDdxzySRCOVHjRHftAAuWx3VIO+PLffwoCdsnfcD40qVKgq+MxqY7WQjK63gk/lkGcH4GvHijQyOh5xOyHzUkV7TxRNdhc4GTH2cw/ssAfwJryLikRW/u8cncSD+2oJ/HNenhvWmMhno63/qMvt4fd58g8LVqRIwXTnMZ9ZHwyEe1W7v4Vk+A5XiIA9aSyvYlBIGp2VWCjPU4OK0Rd1Ol1KsOjAg59oO9bs7Zcu7OxNndTQ20UU8JhYGBeyDB5AjakXudc8hWeu8aN/4c7eYrS6w1rxAHrHCfLFxFvWavyAsmkd0BsZ57Vn30r1GT9yo8+FPfcR8+Xv3pnKvK2a/qN7vzCunma5J6jf2fzCunma1EJedaaz+yWn3KfKsyvOtNZ/ZLT7pPlUqwNxL1rP8A+98loMcqM4lztP5pfkKD6VFBNLbiO6jltkZVlvIoxHFEysqPuJO+d2O/IeXU9F3YxosgjKYKzOBFIpSTTpbugY1AHOM8jnrThdRCe5haIhA6iN9AAlZUZpmLvhMIRgnUaYZ+FOUeRQjuFRO3iZGPaIJMDG3LGfDIqoe8HDxqR+zQhpUw0iqSI8ayuo8h1pi2FqWMkMpIGVzGsJYBTo0q6rkbjfxI3yRXZDw2XtS8/eiImmxMwCHc6mU93AOSNiM1xrezdTLHOw1pLcdpCYi3dUSs+oLqyRjHmSACc0DH4eYlRkv5Y5jphEsjsGbL6gneYjJ58ungcURJHfmWZ1ugsTGMxRFUwMLgrupO53O/wxultovo1vCWbs7cqxJLqSVR9nJYnG+cZxtjcVH2F8cAXStouI3JMkj4VGYSJhwe8wJ3J25AYGwIRcSjVY+0Eupnyx0BvrDhtTZXbGTnBOT4cnOb5I7ZQZDcabjUVT6juhiokAyNR7oXJA2J64LJpOIwxvMSjAbKkaI7BgDjGQuSx2OTtnbfmnm4nG0rC1WTU0aqpyqhQ5XXlHY7jG2nPXO2KCbt5o44ysU04aSYBpPqpeyR8K7qU5kb4wOXt24LntlcxBEZLi2hbtgHOmRkG4jYEMA3I8qb9KuIpNLQnLFmVnd1CqANyyxlQo6nn3hgHpHDeQCOSaG3eNVubfXreNdfaoW1hnYAYwMbjpj1sUE30+3OjAl70iI2YydAkjaRM6Cd2wAo5nPSutfWypMxcZQ4VSHVn2XnlduvPfunbaoRc8Kl7whzh3VSbYg6pMjbA1ZfBA2z44robhaMiOEhaOSSJVftYk1Rv2S5zhSTnbOeu+xppRbBbiK4jG4dZ4N8HJKlQdjjr415RxSLMyPjdlZT5qx5/GvVrd4NjAwZRpkBVtSbsy7H+yc151xuDRe3sQGOxu50HkWJFduG9sZKGG2luJRBCqs5SSTvukahI11sSzkD8aPW84vYlLe4DlABohvkMiY/6Tk5x7VenWETG5fSCXayvo0Uc3d4sBVHiegqZJ5UR4vWjBIkhmUPGSNsNFICM+4Gu98sp4eIW0ttdp2EsckqRxlVdXiwJEkYgsA/TABzz51W3aHsm/lY+2rCKG1khuJooTCySxIyK7NE3aB2yokywxp/iI36VFdx5ifqdDD8Kx7j0FvVi8qbXW9SKm15HQJdvc9pYxQxOUaUzXU2pVijhQFBG2dyzEgqB/CT03KNBXkNxJdcPdN4YNbzBnYKCWyrqo2L7BfYGNGn9a1EJedaaz+yWn3SfKsyu5rTWX2S0+5T5VMlgfiX/wBJ/PJ+WgaO4kNrU/8AUcfFDQQqKDe+iSWWCSN3JuHgQRqsgKtkDWOmeQHXn02abrhbxlo0WRYgzLohcKrKMqMqu2dsfzDxo8YI35g7Z+YpjRQvp1xxtoYsupQdJIxkZqoHL8LbTmSFchiA5aM7J2jbPjcDBPh57VxbWwiEsybLdJIrNkNGVeJixO3IgE7k/jip2trZ9DNGhZS7KRkEF8A8vHA+FdeGKSJoWB7NipIDEY0uHwCN+Y38z41BEtoDHJ35CsltLbR7FBFFKvIAHOcddj5Ypv0a4jRY4Lkp2EaRounSNIACmQcidOenM5pfQI1MrxyyLJLIZQ/rFC0qTNpBOMnHX4HFdW0kQ5S4dGKxqxUyYYR+rkO53zu3jnHLaqGwR8SSVNcqC3L6ig0ySAF3dh2jKCScjJwPZjG7nkv01sYVaOMSd1ELyyEAlSgVxtnHx6Y3jWDiSmBjOskio6O7Fd8lDl8x5PLbGOnMUp57+CN5nWIL+6gUOyHTkISHXJY7HfbpnOCHZrp0AWW2LISiuSJURyxUaYwVJJ3GM4AxuQa6l6NGloGwpEeVKCMHYKnfCgY5MeQxTJZruRpIBbKHRkZX0Sdz65sSKxBUbLt172dhUj3DsqxyQuctGswL6ZGjIcl0UDkCBg6s5GNuZBv0i0mjkkMCuezuJ4gYkJ0GMsWZs432DYJzn3iVv6OdYS6KO0OqMNG6sCrEd7A23yNyOo3psM1s4toWg0NgBEKoyxkRsQoJOc4DbhfPGdyHggk0a0U6CxTmMFs55H2k/jzoGwmAtcrEB9UyROQc5OhX/DOPdWL9IoscXuwR+1FvOOmdUS5PxBrbxxRReouMgAkksxAxzZsn8ayvpTF/z3DJRj622EfmUmb/APoVvjv5Jl4ZrsJHcooQfVyS5ldY0CpgnLvt4Y3olXYh4L6FpGVBpEpKTovQpKO8R4Z1D2UWbZfrUkQsJIZLd+zIDhHwSVLAjoOnzoBoOI8NRnwLvhsetm1oxEC9WZAe0TzVse3pXov9ucEwJAkfYwySsJbnt37ZArIqxiNUJU4J9Y5wOfKleRAxsR/7bcvKi44ArRt2bIHihkKO2ShkjWQoWwOWcZxUk8amJsb4RuXl7KitK/qx+Q+VMqRwdMflzpleV0QTZ1xjU+NEhKjGg95BluufCpTzPnUM2O1QdeykPTl2kfLr+NTHmfOqhDnWmsvslp9ynyrMrzrTWX2S05fsk+VSqh4l+zt/vv8AI1ACj+JfsoPvx+RqAFRXRyIPjmlXK7QLoNt+tKkDtj8ahunvI7ed7K2jubsKBbwTS9jE7swXMkmDsM5PjjHWgm5fhXfGs1aca42/Cr+6kt+Fy31nxufhMzST/QOHRRQuEa5leVy2B4A5OeW2CfwbjEfFbO7uZBaxC0vbixmkt7jtbKRotP1sE7hco2oYyKukWxBBH4Ut/fXMqQpVgw2IKkEfhS9/hUV3cHl50snbnjIpHII33FKgY0UTSxzFcyRhghye6GyDty6n408nBGeWaZJLHCokkzgssaqqlnkkfZUjUbljv8M7AZDRJctv9GVR4PcDX7wiFf8AEaCb2ezNZn0tBWLhM/Ls57lD/djkHyNaJZQWCujI+MgNjDfyMMg/72qj9Lk1cJjb/wBu9jzt/HFKtbw/dEvgI8D4meJIHmMWIFumdYS5dCQzxnUuQGAboTnlUVrcRzPKkZlt722GbizudKXcAOO93e60Z6Ouxz0zirCBRJb20mPXghf+8gNPMSEhikZkWNoUkKKZUiZg7Rq/rBSQCRnpXa1gGUZyWbLMx1MTzJO5Jpdl4DFGCP2V3shV2mlhJ+zg/lqGppPUg8qhrzOlDSj66M/9CQc+naR9KnPP31BN+2j9kEpJx0MkYwT8v95n6n30Q5edaa1V1trdXGlhGoK+Hsqu4bZHu3Mw6ZhQj/GR8vj5W9S1dAeJfsYP+4X8j0BV28ccgAdVYA5AYZ38ajNrbHnGvu2qKqK7VmbG2PIMPI0w2EfR3HuBqivpAkEHwOaNPD26Sj3r/pTDY3A5Mh+IoM5dejnDLmzubMSXMUdxxc8bdkaKRheEkkhZ0ZNO/IqaJg4fPHaSWk9/NcgzxSpIYba2eNI5I5BGos1ReanfGe97KtzaXQ/cz5EUww3C84n+GflV2K97WftJGjuZY1bGBG7IwCtkAsOeAW6czUMsfGUDiGTtO0ZyTJIhwDCsahQ4BGCM7Hmc9asyrjmrDzBrmagAMvFlZCIA6M6R5lChwoLDUyQEqM53OcDSOWTiNb7iMKoLi17VijOTEkkOSsKPoAYtvnUT8Om9nSG3/iqgOf6RIlpOsOqWxvZnkgRtRlTRLaydkzBcnB1JsM4x1omCe3ulD20qygHvBfXUjmHjPeB9hFPqCazsbg6p7aGRxydkGv8AvrhvxqKV9NFBGI3I+kzkLZwAjt5Z85UonrYXmxxgAHJ8a/0nAbgt7j+rns5PcJQn61YW9lYWrO9vawRO4w7xoBIwznDOe9j30H6Qrq4Hxn/4wxSf3LiI1rHzEobhI7ThfC355s7ff2hQpo3s6D9Hu/wThLeEBQ+aSOn6Va6K3b2yG7P/AGa6IssAOZwB7zRASnInfQ4/eX51NgbtUmht5E1aGVtJZSuoBiuQDvjbamVyMYgtR0WLSPczCujJIABJJwABkk+AArnGkbIpZWPMKy9ORIPPn0FW/D+HFtM9wuFyGjjbm3gzj5CpbHhugrNcgFxukfNU9rdCatKbCpUqVRSpUqVAqVKlQKlSpUCpUqVAsCmGOM80U+4U+lQQm2tjzjX3bUw2VseSkeRNE0qAM2EPR3HwNMNgeko94o+lQVpsZxyZD8RVfxjh9/Pwri1vDCZJprSRIkRlBd8qwGWIHTxrRUquxj/R+z4hacHsYLu1mhni+kB43UEqGnkZd1JHIjrVkcjmCPMEVfVwgHmAfMZq3LfaaUQI9lPTGpP5h86t2hgbOYkP9kfpUZsrQ/1eP5Sw/Wps0ztvFLKltFGpZyJduWB2r7k+FXtnYRWwDth5yN26L7EBomOGGEYjRV2UEgbkKMDJqSopUqVKgVKlSoP/2Q==",
         "price": 24.99,
-        "category": "Erectile Dysfunction"
+        "category": "Erectile Dysfunction",
+        "Text": "Phosphodiesterase type 5 (PDE5) inhibitor medication used to treat erectile dysfunction (impotence).",
+        "TextL": "Tadalafil is a phosphodiesterase type 5 (PDE5) inhibitor medication used to treat erectile dysfunction (impotence) and symptoms of benign prostatic hyperplasia (enlarged prostate). It works by increasing blood flow to the penis during sexual stimulation, which helps achieve and maintain an erection. Tadalafil is commonly known by the brand name Cialis and is usually taken orally as needed, about 30 minutes before sexual activity. It may be taken with or without food. It is important to follow the prescribed dosage and not to exceed the recommended maximum dose to avoid potential side effects.",
+        "availability": "No"
+    
     },
     {
         "asin": "R13579LMNO",
         "title": "Warfarin 5mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.rs_Z5pmbynC-Ezvb-AeOxQHaIO?w=165&h=183&c=7&r=0&o=5&pid=1.7",
         "price": 6.99,
-        "category": "Blood Thinner"
+        "category": "Blood Thinner",
+        "Text": "Anticoagulant medication used to prevent blood clots and reduce the risk of stroke and heart attack.",
+        "TextL": "Warfarin is an anticoagulant medication used to prevent blood clots and reduce the risk of stroke, heart attack, and other cardiovascular events in individuals with certain medical conditions such as atrial fibrillation, deep vein thrombosis (DVT), and pulmonary embolism (PE). It works by inhibiting the production of vitamin K-dependent clotting factors in the liver. Warfarin is usually taken orally once daily at the same time each day. It requires regular monitoring of blood clotting levels (INR) to ensure that the dosage is appropriate and to prevent bleeding complications.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "S24680QRST",
         "title": "Zolpidem 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.306VwcP5iH5zK1Eu6o1NVAHaHa?w=177&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 17.49,
-        "category": "Insomnia"
+        "category": "Insomnia",
+        "Text": "Sedative-hypnotic medication used for the short-term treatment of insomnia.",
+        "TextL": "Zolpidem is a sedative-hypnotic medication used for the short-term treatment of insomnia, a sleep disorder characterized by difficulty falling asleep or staying asleep. It belongs to the class of medications known as nonbenzodiazepines and works by enhancing the activity of the neurotransmitter gamma-aminobutyric acid (GABA) in the brain, which helps induce sleep. Zolpidem is usually taken orally once daily before bedtime on an empty stomach. It should be taken immediately before going to bed and only when the individual has at least 7-8 hours available for sleep to reduce the risk of morning drowsiness and impaired cognitive function.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "T35791TUVW",
         "title": "Doxycycline 100mg Capsules",
         "img": "https://th.bing.com/th/id/OIP.ICy_5l3O-HNYdpGUHB813AHaHa?w=200&h=200&c=7&r=0&o=5&pid=1.7",
         "price": 14.99,
-        "category": "Antibiotics"
+        "category": "Antibiotics",
+        "Text": "Broad-spectrum antibiotic medication used to treat bacterial infections.",
+        "TextL": "Doxycycline is a broad-spectrum antibiotic medication used to treat bacterial infections caused by susceptible microorganisms. It belongs to the tetracycline class of antibiotics and works by inhibiting the growth and replication of bacteria. Doxycycline is commonly prescribed to treat infections of the respiratory tract, urinary tract, gastrointestinal tract, skin, and other areas of the body. It is usually taken orally with a full glass of water, with or without food, multiple times a day as prescribed by a healthcare professional. It is important to complete the full course of treatment even if symptoms improve to prevent the recurrence of infection.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "U24680QRST",
         "title": "Morphine 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.hVq437XLiAoe0jvi6tB2kwHaHa?w=175&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 21.99,
-        "category": "Pain Relief"
+        "category": "Pain Relief",
+        "Text": "Opioid analgesic medication used to relieve moderate to severe pain.",
+        "TextL": "Morphine is an opioid analgesic medication used to relieve moderate to severe pain that is unresponsive to non-opioid analgesics. It works by binding to opioid receptors in the central nervous system, which alters the perception of pain and produces feelings of euphoria and sedation. Morphine is commonly used to treat acute pain following surgery, trauma, or injury, as well as chronic pain associated with conditions such as cancer or terminal illness. It is usually taken orally, intravenously, or via other routes of administration under the supervision of a healthcare professional. Morphine should be used with caution due to the risk of tolerance, dependence, and respiratory depression.",
+        "availability": "Yes"
+   
     },
     {
         "asin": "V13579LMNO",
         "title": "Venlafaxine 75mg Capsules",
         "img": "https://th.bing.com/th/id/OIP.TxwnivNN4j_6wAjtq8P9ZgHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7",
         "price": 22.49,
-        "category": "Mental Health"
+        "category": "Mental Health",
+        "Text": "Serotonin-norepinephrine reuptake inhibitor (SNRI) medication used to treat depression, anxiety, and other mental health conditions.",
+        "TextL": "Venlafaxine is a serotonin-norepinephrine reuptake inhibitor (SNRI) medication used to treat major depressive disorder (MDD), generalized anxiety disorder (GAD), panic disorder, and social anxiety disorder. It works by increasing the levels of serotonin and norepinephrine, neurotransmitters in the brain that regulate mood and emotions. Venlafaxine is usually taken orally once or twice daily with food. It may take several weeks for venlafaxine to reach its full effect, so it is important to continue taking it as directed even if symptoms improve.",
+        "availability": "No"
+    
     },
     {
         "asin": "W24680QRST",
         "title": "Cephalexin 500mg Capsules",
         "img": "https://th.bing.com/th/id/OIP.06JsjD8mTm8_fY-EWlqjMQHaHa?w=170&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 8.49,
-        "category": "Antibiotics"
+        "category": "Antibiotics",
+        "Text": "First-generation cephalosporin antibiotic medication used to treat bacterial infections.",
+        "TextL": "Cephalexin is a first-generation cephalosporin antibiotic medication used to treat bacterial infections caused by susceptible microorganisms. It works by inhibiting the growth and replication of bacteria. Cephalexin is commonly prescribed to treat infections of the respiratory tract, skin, urinary tract, and other areas of the body. It is usually taken orally with or without food multiple times a day as prescribed by a healthcare professional. It is important to complete the full course of treatment even if symptoms improve to prevent the recurrence of infection.",
+        "availability": "Yes"
+   
     },
     {
         "asin": "X35791TUVW",
         "title": "Hydrochlorothiazide 25mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.33FDTpE_gDNPvdfMEBUO8wHaHa?w=178&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 10.99,
-        "category": "Hypertension"
+        "category": "Hypertension",
+        "Text": "Thiazide diuretic medication used to treat high blood pressure and edema.",
+        "TextL": "Hydrochlorothiazide is a thiazide diuretic medication used to treat high blood pressure (hypertension) and reduce fluid retention (edema) in conditions such as heart failure, cirrhosis of the liver, and kidney disorders. It works by increasing the excretion of sodium and water from the body through the kidneys, which decreases blood volume and lowers blood pressure. Hydrochlorothiazide is usually taken orally once daily in the morning with or without food. It may take several weeks for hydrochlorothiazide to reach its full effect, so it is important to continue taking it as directed even if blood pressure improves.",
+        "availability": "No"
+    
     },
     {
         "asin": "Y24680QRST",
         "title": "Ezetimibe 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.ucmC8oW84IM8W1VZuVKAIgHaHa?w=217&h=216&c=7&r=0&o=5&pid=1.7",
         "price": 19.99,
-        "category": "Cholesterol Management"
+        "category": "Cholesterol Management",
+        "Text": "Cholesterol absorption inhibitor medication used to lower cholesterol levels.",
+        "TextL": "Ezetimibe is a cholesterol absorption inhibitor medication used to lower cholesterol levels in the blood by reducing the absorption of dietary cholesterol from the intestines. It works by inhibiting the action of the Niemann-Pick C1-Like 1 (NPC1L1) protein, which is responsible for transporting cholesterol across the intestinal wall. Ezetimibe is usually taken orally once daily with or without food. It may be used alone or in combination with other cholesterol-lowering medications such as statins. It is important to follow a healthy diet and lifestyle while taking ezetimibe to achieve optimal cholesterol-lowering effects.",
+        "availability": "No"
+   
     },
     {
         "asin": "Z13579LMNO",
         "title": "Diazepam 5mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.73mJzmNrjfC8teMMrks09QHaHa?w=183&h=183&c=7&r=0&o=5&pid=1.7",
         "price": 16.49,
-        "category": "Anxiety"
+        "category": "Anxiety",
+        "Text": "Benzodiazepine medication used to treat anxiety, muscle spasms, and seizures.",
+        "TextL": "Diazepam is a benzodiazepine medication used to treat anxiety disorders, muscle spasms, alcohol withdrawal symptoms, and seizures. It works by enhancing the activity of gamma-aminobutyric acid (GABA), a neurotransmitter in the brain that inhibits the activity of other neurotransmitters, resulting in a calming effect on the central nervous system. Diazepam is usually taken orally two to four times daily as needed for anxiety or muscle spasms, and it may be administered intravenously or rectally for the treatment of seizures or acute alcohol withdrawal symptoms. It is important to use diazepam cautiously and under the supervision of a healthcare professional due to the risk of tolerance, dependence, and withdrawal symptoms.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "A24680QRST",
         "title": "Amlodipine 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.Df46CelMdJegBU-Q1gw-bAAAAA?w=165&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 11.49,
-        "category": "Hypertension"
+        "category": "Hypertension",
+        "Text": "Calcium channel blocker medication used to treat high blood pressure and chest pain (angina).",
+        "TextL": "Amlodipine is a calcium channel blocker medication used to treat high blood pressure (hypertension) and chest pain (angina) caused by coronary artery disease. It works by relaxing the blood vessels and improving blood flow, which reduces blood pressure and relieves angina symptoms. Amlodipine is usually taken orally once daily with or without food. It may take several weeks for amlodipine to reach its full effect, so it is important to continue taking it as directed even if blood pressure improves. Amlodipine should not be stopped suddenly without medical supervision.",
+        "availability": "No"
+    
     },
     {
         "asin": "B35791TUVW",
         "title": "Methylphenidate 10mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.TLx-qL3SruP8XAdQtVErpQHaE7?w=261&h=180&c=7&r=0&o=5&pid=1.7",
         "price": 18.99,
-        "category": "ADHD"
+        "category": "ADHD",
+        "Text": "Central nervous system stimulant medication used to treat attention deficit hyperactivity disorder (ADHD).",
+        "TextL": "Methylphenidate is a central nervous system stimulant medication used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy. It works by increasing the levels of dopamine and norepinephrine, neurotransmitters in the brain that regulate attention and behavior. Methylphenidate is usually taken orally once or multiple times daily with or without food. It is important to take methylphenidate as prescribed by a healthcare professional and to monitor for side effects such as decreased appetite, insomnia, and increased heart rate.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "C24680QRST",
         "title": "Sildenafil 100mg Tablets",
         "img": "https://th.bing.com/th/id/OIP.z1NifhHKZhH7_J35xsR9SgHaMW?w=120&h=199&c=7&r=0&o=5&pid=1.7",
         "price": 23.99,
-        "category": "Erectile Dysfunction"
+        "category": "Erectile Dysfunction",
+        "Text": "Phosphodiesterase type 5 (PDE5) inhibitor medication used to treat erectile dysfunction (impotence).",
+        "TextL": "Sildenafil is a phosphodiesterase type 5 (PDE5) inhibitor medication used to treat erectile dysfunction (impotence) in men. It works by increasing blood flow to the penis during sexual stimulation, which helps achieve and maintain an erection. Sildenafil is commonly known by the brand name Viagra and is usually taken orally as needed, about 30 minutes to 1 hour before sexual activity. It may be taken with or without food. It is important to follow the prescribed dosage and not to exceed the recommended maximum dose to avoid potential side effects.",
+        "availability": "Yes"
+    
     },
     {
         "asin": "D35791TUVW",
         "title": "Clindamycin 300mg Capsules",
         "img": "https://th.bing.com/th/id/OIP.po7IyNjVuIAbKcfAm4TF4AHaHa?w=194&h=194&c=7&r=0&o=5&pid=1.7",
         "price": 13.49,
-        "category": "Antibiotics"
+        "category": "Antibiotics",
+        "Text": "Lincosamide antibiotic medication used to treat bacterial infections.",
+        "TextL": "Clindamycin is a lincosamide antibiotic medication used to treat bacterial infections caused by susceptible microorganisms. It works by inhibiting the growth and replication of bacteria. Clindamycin is commonly prescribed to treat infections of the skin, respiratory tract, bone, joint, and female reproductive system, as well as certain types of bacterial vaginosis and dental infections. It is usually taken orally with a full glass of water, with or without food, multiple times a day as prescribed by a healthcare professional. It is important to complete the full course of treatment even if symptoms improve to prevent the recurrence of infection.",
+        "availability": "No"
+    
     }
+    
 ]

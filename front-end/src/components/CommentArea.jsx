@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import CommentList from './CommentList'
-import AddComment from './AddComment'
+import AddReview from './AddReview'
 import Loading from './Loading'
 import Error from './Error'
 
@@ -47,7 +47,7 @@ const CommentArea = ({ asin }) => {
     <div className="text-center">
       {isLoading && <Loading />}
       {isError && <Error />}
-      <AddComment asin={asin} />
+      <AddReview asin={asin} />
       <CommentList commentsToShow={comments} />
     </div>
   )

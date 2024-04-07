@@ -1,5 +1,7 @@
 import { Navbar, Nav, Container, Form } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
+import { FaUser } from 'react-icons/fa'; // Importa l'icona utente da react-icons/fa
+import { FaShoppingCart } from 'react-icons/fa'; // Importa l'icona del carrello da react-icons/fa
 
 const MyNav = ({ searchQuery, setSearchQuery }) => {
   return (
@@ -19,13 +21,21 @@ const MyNav = ({ searchQuery, setSearchQuery }) => {
             <Link to="/">
               <div className="nav-link">Home</div>
             </Link>
-            <Link to="/about">
-              <div className="nav-link">About</div>
+            <Link to="/CommentPage">
+              <div className="nav-link">AddComments</div>
             </Link>
-            <Link to="/browse">
-              <div className="nav-link">Browse</div>
+            <Link to="/ContactList">
+              <div className="nav-link">Contact</div>
             </Link>
           </Nav>
+          <Navbar.Brand as={Link} to="/Userpage">
+        {/* Icona utente */}
+        <FaUser size={25} style={{ marginRight: '5px' }} />
+        </Navbar.Brand>
+      <Navbar.Brand as={Link} to="/CartPage">
+        {/* Icona del carrello */}
+        <FaShoppingCart size={30} style={{ marginRight: '5px' }} />
+      </Navbar.Brand>
           <Nav className="ms-auto">
             <Form.Group>
               <Form.Control
