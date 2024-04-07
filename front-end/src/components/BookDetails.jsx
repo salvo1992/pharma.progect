@@ -1,6 +1,5 @@
 import { Card, Col, Row } from 'react-bootstrap'
 import { useParams } from 'react-router-dom'
-
 import fantasy from '../data/fantasy.json'
 
 const BookDetails = () => {
@@ -25,8 +24,7 @@ const BookDetails = () => {
               <Card.Text>Prezzo: €{foundBook.price}</Card.Text> {/* Inserimento del prezzo */}
            </Card.Body>
         </Card>
-       
-      </Col>
+       </Col>
     </Row>
   )
 }

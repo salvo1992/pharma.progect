@@ -1,10 +1,15 @@
 import React, { useState, useEffect } from 'react';
 import { Container, Row, Col, Button } from 'react-bootstrap';
+import axios from 'axios';
+import Loading from './Loading';
+import Error from './Error';
 
 const CartPage = ({ cartItems }) => {
-  console.log('CartPage');
   const [selectedItems, setSelectedItems] = useState([]);
-  const [currentCartItems, setCurrentCartItems] = useState([]);
+  const [currentCartItems, setCurrentCartItems] = useState(cartItems || []);
+  const [isLoading, setIsLoading] = useState(false);
+  const [isError, setIsError] = useState(false);
+  const [purchasedItems, setPurchasedItems] = useState([]);
 
   useEffect(() => {
     setCurrentCartItems(cartItems || []);
@@ -26,22 +31,45 @@ const CartPage = ({ cartItems }) => {
 
   const handleCheckout = async () => {
     try {
-      // Implementa la tua logica di checkout qui
       console.log('Checkout eseguito per gli elementi selezionati:', selectedItems);
+      await axios.post('http://localhost:9089/checkout', { items: currentCartItems }); // Invia l'intero oggetto carrello al backend
+      // Non c'è bisogno di impostare checkoutItems
     } catch (error) {
       console.error('Errore durante il checkout:', error.message);
+      setIsError(true);
       alert('Si è verificato un errore durante il checkout. Si prega di riprovare più tardi.');
     }
   };
 
   const totalAmount = currentCartItems.reduce((total, currentItem) => total + currentItem.price, 0);
 
+  useEffect(() => {
+    setIsLoading(true);
+    setTimeout(() => {
+      setIsLoading(false);
+    }, 2000);
+  }, []);
+
+  useEffect(() => {
+    const fetchPurchasedItems = async () => {
+      try {
+        const response = await axios.get('http://localhost:9089/cartItems');
+        setPurchasedItems(response.data);
+      } catch (error) {
+        console.error('Errore durante il recupero dei prodotti acquistati:', error.message);
+        setIsError(true);
+      }
+    };
+    fetchPurchasedItems();
+  }, []);
   return (
     <Container className="mt-5">
       <Row>
         <Col xs={12} md={8}>
           <h2>Il tuo Carrello</h2>
-          {currentCartItems.map((item) => (
+          {isLoading && <Loading />}
+          {isError && <Error />}
+          {!isLoading && !isError && currentCartItems.map((item) => (
             <Row key={item.asin} className={`cart-item ${selectedItems.includes(item.asin) ? 'selected' : ''}`} onClick={() => handleToggleSelected(item.asin)}>
               <Col xs={8}>
                 <p>{item.title} - {item.price} €</p>
@@ -51,7 +79,7 @@ const CartPage = ({ cartItems }) => {
               </Col>
             </Row>
           ))}
-          {currentCartItems.length === 0 && <p>Il tuo carrello è vuoto.</p>}
+          {!isLoading && !isError && currentCartItems.length === 0 && <p>Il tuo carrello è vuoto.</p>}
           <Button variant="success" disabled={selectedItems.length === 0} onClick={handleCheckout}>Acquista selezionati</Button>
         </Col>
         <Col xs={12} md={4}>
@@ -59,11 +87,26 @@ const CartPage = ({ cartItems }) => {
           <h3 className="text-center">{totalAmount} €</h3>
         </Col>
       </Row>
+
+      {purchasedItems.length > 0 && (
+        <Row className="mt-5">
+          <Col>
+            <h2>Prodotti acquistati:</h2>
+            <ul>
+              {purchasedItems.map((item, index) => (
+                <li key={index}>{item.title}</li>
+              ))}
+            </ul>
+          </Col>
+        </Row>
+      )}
     </Container>
   );
 };
 
 export default CartPage;
+
+
 
 
 

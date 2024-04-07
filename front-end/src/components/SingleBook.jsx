@@ -1,15 +1,15 @@
+// SingleBook.jsx
 import React from 'react';
 import { Card, Button } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
-
 
 const SingleBook = ({ book, addToCart }) => {
   const navigate = useNavigate();
 
   const handleAddToCart = () => {
-    console.log('handleAddToCart')
+    console.log('handleAddToCart', book); // Aggiungi questo log per verificare se la funzione viene chiamata correttamente
     if (addToCart && typeof addToCart === 'function') {
-      addToCart(book);
+      addToCart(book); // Chiamata a addToCart con il libro corrente come argomento
     }
   };
 
@@ -37,3 +37,5 @@ const SingleBook = ({ book, addToCart }) => {
 };
 
 export default SingleBook;
+
+

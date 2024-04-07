@@ -4,6 +4,7 @@ const cors = require('cors');
 const purchaseRouter = require('./router/PurchaseRouter');
 const CommentRouter = require('./router/CommentRouter');
 const ReviewRouter = require('./router/ReviewRouter'); 
+const cartRoutes = require('./router/cartRoutes');
 require("dotenv").config();
 
 
@@ -15,7 +16,7 @@ app.use(cors());
 app.use('/', purchaseRouter);
 app.use('/', CommentRouter); // Aggiorna il prefisso dell'endpoint per CommentRouter
 app.use('/', ReviewRouter);
-
+app.use('/',cartRoutes)
 
 
 mongoose.connect(process.env.MONGODB_URL);
