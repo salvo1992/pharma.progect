@@ -23,7 +23,7 @@ const AddReview = ({ productId }) => {
 
   const fetchReviews = async () => {
     try {
-      const response = await axios.get('http://localhost:9089/api/reviews');
+      const response = await axios.get('process.env.REACT_APP_API_BASE_URL/api/reviews');
       setReviews(response.data);
     } catch (error) {
       console.error('Errore durante il recupero delle recensioni:', error);
@@ -33,7 +33,7 @@ const AddReview = ({ productId }) => {
   const sendReview = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:9089/api/reviews', review);
+      const response = await axios.post('process.env.REACT_APP_API_BASE_URL/api/reviews', review);
       if (response.status === 201) {
         alert('Recensione inviata!');
         setReview({

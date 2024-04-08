@@ -17,7 +17,7 @@ function CommentPage() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('http://localhost:9089/comments', {
+      const response = await axios.post(`${process.env.REACT_APP_API_BASE_URL}/comments`, {
         comment,
         rating,
         recommend,
@@ -39,7 +39,7 @@ function CommentPage() {
 
   const fetchSavedPosts = async () => {
     try {
-      const response = await axios.get('http://localhost:9089/comments');
+      const response = await axios.get(`${process.env.REACT_APP_API_BASE_URL}/comments`);
       setComments(response.data);
     } catch (error) {
       console.error('Errore durante il recupero dei dati:', error);
@@ -117,6 +117,7 @@ function CommentPage() {
 }
 
 export default CommentPage;
+
 
 
 

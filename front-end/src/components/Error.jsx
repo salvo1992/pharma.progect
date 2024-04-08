@@ -1,7 +1,7 @@
 import { Alert } from 'react-bootstrap'
 
 const Error = () => (
-  <Alert variant="danger">Errore - Stai utilizzando il tuo Bearer token?</Alert>
+  <Alert variant="danger">Errore -opp scusate il disaggio</Alert>
 )
 
 export default Error

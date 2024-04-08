@@ -32,7 +32,7 @@ const CartPage = ({ cartItems }) => {
   const handleCheckout = async () => {
     try {
       console.log('Checkout eseguito per gli elementi selezionati:', selectedItems);
-      await axios.post('http://localhost:9089/checkout', { items: currentCartItems }); // Invia l'intero oggetto carrello al backend
+      await axios.post(`${process.env.REACT_APP_API_BASE_URL}/checkout`, { items: currentCartItems }); // Invia l'intero oggetto carrello al backend
       // Non c'è bisogno di impostare checkoutItems
     } catch (error) {
       console.error('Errore durante il checkout:', error.message);
@@ -53,7 +53,7 @@ const CartPage = ({ cartItems }) => {
   useEffect(() => {
     const fetchPurchasedItems = async () => {
       try {
-        const response = await axios.get('http://localhost:9089/cartItems');
+        const response = await axios.get(`${process.env.REACT_APP_API_BASE_URL}/cartItems`);
         setPurchasedItems(response.data);
       } catch (error) {
         console.error('Errore durante il recupero dei prodotti acquistati:', error.message);
@@ -62,6 +62,7 @@ const CartPage = ({ cartItems }) => {
     };
     fetchPurchasedItems();
   }, []);
+  
   return (
     <Container className="mt-5">
       <Row>
@@ -105,6 +106,7 @@ const CartPage = ({ cartItems }) => {
 };
 
 export default CartPage;
+
 
 
 
